@@ -2,10 +2,8 @@
 
 **Lifelink** is a sophisticated, agentic AI system designed to provide empathetic mental health support and immediate crisis intervention. By combining the reasoning power of **Llama 3** (via Groq) with the clinical depth of **MedGemma** (via Ollama), Lifelink bridges the gap between conversational AI and real-world safety protocols.
 
----
-
 <p align="center">
-  <img src="https://github.com/omgupta-ai/Lifelink---Life-Saving-AI-Agent/blob/main/Architecture.png" width="700">
+  <img src="https://github.com/omgupta-ai/Lifelink---Life-Saving-AI-Agent/blob/main/Architecture.png" width="550" alt="Centered Logo">
 </p>
 
 ---
