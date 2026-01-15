@@ -4,6 +4,12 @@
 
 ---
 
+![Lifelink Architecture](https://github.com/yourusername/Lifelink/blob/main/architecture.png)
+![Lifelink Architecture](https://github.com/yourusername/Lifelink/blob/main/architecture.png)
+![Lifelink Architecture](https://github.com/yourusername/Lifelink/blob/main/architecture.png)
+
+---
+
 ## ✨ Key Features
 
 * **🧠 Hybrid Intelligence Architecture**: Uses a multi-model approach. **Llama 3** acts as the Agent Orchestrator while **MedGemma:4b** provides specialized clinical responses.
