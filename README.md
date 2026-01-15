@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/omgupta-ai/Lifelink---Life-Saving-AI-Agent/blob/main/Architecture.png" width="700" alt="Centered Logo">
+  <img src="https://github.com/omgupta-ai/Lifelink---Life-Saving-AI-Agent/blob/main/Architecture.png" width="700">
 </p>
 
 ---
@@ -19,8 +19,8 @@
       <img src="https://github.com/omgupta-ai/Lifelink---Life-Saving-AI-Agent/blob/main/demo_img.png" width="400" alt="Lifelink Agent">
     </td>
     <td>
-      <p align="center"><b>Crisis Detection</b></p>
-      <img src="https://github.com/omgupta-ai/Lifelink---Life-Saving-AI-Agent/blob/main/emergency_img.png" width="400" alt="Lifelink Agent">
+      <p align="center"><b>Emergency Alert</b></p>
+      <img src="https://github.com/omgupta-ai/Lifelink---Life-Saving-AI-Agent/blob/main/emergency_img.png" width="600" alt="Lifelink Agent">
     </td>
     <td>
       <p align="center"><b>Crisis Detection</b></p>
