@@ -7,6 +7,18 @@
 <img src="https://github.com/omgupta-ai/Lifelink---Life-Saving-AI-Agent/blob/main/demo_img.png" width="400" alt="Lifelink Agent">
 <img src="https://github.com/omgupta-ai/Lifelink---Life-Saving-AI-Agent/blob/main/demo_img_2.png" width="400" alt="Lifelink Agent">
 
+<table border="0">
+  <tr>
+    <td>
+      <p align="center"><b>Chat Interface</b></p>
+      <img src="https://github.com/omgupta-ai/Lifelink---Life-Saving-AI-Agent/blob/main/demo_img.png" width="400" alt="Lifelink Agent">
+    </td>
+    <td>
+      <p align="center"><b>Crisis Detection</b></p>
+      <img src="https://github.com/omgupta-ai/Lifelink---Life-Saving-AI-Agent/blob/main/demo_img.png" width="400" alt="Lifelink Agent">
+    </td>
+  </tr>
+</table>
 ---
 
 ## ✨ Key Features
