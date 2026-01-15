@@ -4,9 +4,8 @@
 
 ---
 
-![Lifelink Architecture](https://github.com/yourusername/Lifelink/blob/main/architecture.png)
-![Lifelink Architecture](https://github.com/yourusername/Lifelink/blob/main/architecture.png)
-![Lifelink Architecture](https://github.com/yourusername/Lifelink/blob/main/architecture.png)
+![Lifelink Architecture](https://github.com/omgupta-ai/Lifelink---Life-Saving-AI-Agent/blob/main/demo_img.png)
+![Lifelink Architecture](https://github.com/omgupta-ai/Lifelink---Life-Saving-AI-Agent/blob/main/demo_img_2.png)
 
 ---
 
